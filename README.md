@@ -12,7 +12,5 @@
 </p>
 
 <p>
-  📫 <b>Contact:</b> <a href="mailto:cristian@bewise.com.es">cristian@bewise.com.es</a>
-  <br>
   📄 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/cristian-leguizam%C3%B3n/" target="_blank">Cristian Leguizamón</a>
 </p>
